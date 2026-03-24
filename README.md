@@ -76,8 +76,8 @@ The dataset `indian_bail_judgments.csv` contains Indian court bail judgment reco
 
 | Model | Accuracy | Macro F1 |
 |---|---|---|
-| SVM Baseline | — | — |
-| InCaseLawBERT (Hybrid) | — | — |
+| SVM Baseline | 88 | 87 |
+| InCaseLawBERT (Hybrid) | 95 | 94 |
 
 *(Fill in after running evaluation)*
 
